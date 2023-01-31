@@ -1,0 +1,11 @@
+node_modules
+package-lock.json
+.vscode
+Images
+.env2
+.env
+test.html
+temp.sql
+*.jpg
+test.sql
+class.sql
